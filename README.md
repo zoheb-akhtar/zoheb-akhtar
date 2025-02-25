@@ -1,11 +1,11 @@
 # 💫 About Me:
-I'm a first year Computer Science Student at Northeastern University, passionate about exploring the realms of coding, machine learning, and building robust, full-stack applications.
+I'm a first year Computer Science Student at Northeastern University, passionate about exploring the realms of coding, Artificial Intelligence, and building robust, full-stack applications.
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
-  <br/>🔭  Currently learning Javascript
-  <br/>⏰  Currently working on an Amazon clone using vanilla Javascript, HTML, & CSS
-  <br/>🌱  Always expanding my knowledge and contributing to open-source communities.
-  <br/>🚀  On a mission to push the boundaries of what's possible with code.
+  <br/>🔭  Currently learning React.js
+  <br/>⏰  Currently working on frontend projects utilizing React.js
+  <br/>🤖  Looking to contribute to full-stack projects that utilize AI
+  <br/>🚀  Wanting to create projects that contribute to the community
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoheb-akhtar-593051284) 
