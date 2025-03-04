@@ -1,1 +1,0 @@
-Zoheb Akhtar | Northeastern University | Expected Graduation : 2028 | Computer Science
