@@ -9,7 +9,7 @@ I'm a first year Computer Science Student at Northeastern University, passionate
 
   Check out my coding portfolio [here!](https://zoheba-portfolio.vercel.app/)
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoheb-akhtar-593051284) 
 
 # 💻 Tech Stack:
