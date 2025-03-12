@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 Hi 👋, I'm Zoheb!
-</p>
+</h1>
 
 # 💫 About Me:
 I'm a first year Computer Science Student at Northeastern University, passionate about exploring the realms of coding, Artificial Intelligence, and building robust, full-stack applications.
