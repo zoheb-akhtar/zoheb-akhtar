@@ -6,7 +6,7 @@ Hi 👋, I'm Zoheb!
 I'm a first year Computer Science Student at Northeastern University, passionate about exploring the realms of coding, Artificial Intelligence, and building robust, full-stack applications.
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
-  <br/>🔭  Currently learning React.js
+  <br/>🔭  Currently learning Node.js
   <br/>⏰  Currently working on frontend projects utilizing React.js
   <br/>🤖  Looking to contribute to full-stack projects that utilize AI
   <br/>🚀  Wanting to create projects that contribute to the community
