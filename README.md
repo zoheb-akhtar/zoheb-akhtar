@@ -6,8 +6,8 @@ Hi 👋, I'm Zoheb!
 I'm a first year Computer Science Student at Northeastern University, passionate about exploring the realms of coding, Artificial Intelligence, and building robust, full-stack applications.
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
-  <br/>🔭  Currently learning Java
-  <br/>⏰  Currently working on full-stack projects utilizing React.js, Express.js, and PostgreSQL
+  <br/>🔭  Currently learning Object Oriented Programming with Java
+  <br/>⏰  Currently working on the second version of Chef Claude utilizing React.js, Express.js, and PostgreSQL (coming soon)!
   <br/>🤖  Looking to contribute to impactful projects that utilize AI
   <br/>🚀  Wanting to create projects that contribute to the community
 
