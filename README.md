@@ -7,7 +7,7 @@ I'm a first year Computer Science Student at Northeastern University, passionate
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
   <br/>🔭  Currently learning Object Oriented Programming with Java
-  <br/>⏰  Currently working on the second version of Chef Claude utilizing React.js, Express.js, and PostgreSQL (coming soon)!
+  <br/>⏰  Currently working on the Ventus Mobile App with React Native, Supabase, and AWS (coming soon)!
   <br/>🤖  Looking to contribute to impactful projects that utilize AI
   <br/>🚀  Wanting to create projects that contribute to the community
 
