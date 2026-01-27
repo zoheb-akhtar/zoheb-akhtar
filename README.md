@@ -11,7 +11,7 @@ I'm a first year Computer Science Student at Northeastern University, passionate
   <br/>🤖  Looking to contribute to impactful projects that utilize AI
   <br/>🚀  Wanting to create projects that contribute to the community
 
-  Check out my coding portfolio [here!](https://zoheba-portfolio.vercel.app/)
+  Check out my coding portfolio [here!](https://zohebakhtar.vercel.app/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoheb-akhtar-593051284) 
