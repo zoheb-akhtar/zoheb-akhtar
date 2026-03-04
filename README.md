@@ -3,11 +3,11 @@ Hi 👋, I'm Zoheb!
 </h1>
 
 # 💫 About Me:
-I'm a first year Computer Science Student at Northeastern University, passionate about exploring the realms of coding, Artificial Intelligence, and building robust, full-stack applications.
+I'm a second year Computer Science Student at Northeastern University, passionate about exploring problems that require thoughtful system design, scalability, and clean engineering practices. I am currently the CTO at Ventus and an Incoming Backend Software Engineer Co-op at WHOOP
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
-  <br/>🔭  Currently learning Object Oriented Programming with Java
-  <br/>⏰  Currently working on the Ventus Mobile App with React Native, Node.js, Express, Supabase, and AWS!
+  <br/>🔭  Currently learning AWS System Design
+  <br/>⏰  Currently working on the Ventus AI Transaction Enrichment Platform and Mobile App with React Native, Node.js, Express, Supabase, and AWS!
   <br/>🤖  Looking to contribute to impactful projects that utilize AI
   <br/>🚀  Wanting to create projects that contribute to the community
 
