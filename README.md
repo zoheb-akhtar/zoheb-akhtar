@@ -7,7 +7,7 @@ I'm a second year Computer Science Student at Northeastern University, passionat
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
   <br/>🔭  Currently learning AWS System Design
-  <br/>⏰  Currently working on the Ventus AI Transaction Enrichment Platform and Mobile App with React Native, Node.js, Express, Supabase, and AWS!
+  <br/>⏰  Currently working on the Ventus AI Transaction Enrichment Platform using AWS!
   <br/>🤖  Looking to contribute to impactful projects that utilize AI
   <br/>🚀  Wanting to create projects that contribute to the community
 
