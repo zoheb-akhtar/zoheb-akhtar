@@ -3,7 +3,7 @@ Hi 👋, I'm Zoheb!
 </h1>
 
 # 💫 About Me:
-I'm a second year Computer Science Student at Northeastern University, passionate about exploring problems that require thoughtful system design, scalability, and clean engineering practices. I am currently the CTO at Ventus and an Incoming Backend Software Engineer Co-op at WHOOP
+I'm a second year Computer Science Student at Northeastern University, passionate about exploring problems that require thoughtful system design, scalability, and clean engineering practices. I am currently a Co-Founder and the CTO at Ventus and an Incoming Backend Software Engineer Co-op at WHOOP
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
   <br/>🔭  Currently learning AWS System Design
